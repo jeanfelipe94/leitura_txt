@@ -1,0 +1,10 @@
+C:\Users\Jean Felipe\source\repos\Leitura\Leitura\bin\Debug\Leitura.exe.config
+C:\Users\Jean Felipe\source\repos\Leitura\Leitura\bin\Debug\Leitura.exe
+C:\Users\Jean Felipe\source\repos\Leitura\Leitura\bin\Debug\Leitura.pdb
+C:\Users\Jean Felipe\source\repos\Leitura\Leitura\obj\Debug\Leitura.csproj.AssemblyReference.cache
+C:\Users\Jean Felipe\source\repos\Leitura\Leitura\obj\Debug\Leitura.Properties.Resources.resources
+C:\Users\Jean Felipe\source\repos\Leitura\Leitura\obj\Debug\Leitura.csproj.GenerateResource.cache
+C:\Users\Jean Felipe\source\repos\Leitura\Leitura\obj\Debug\Leitura.csproj.CoreCompileInputs.cache
+C:\Users\Jean Felipe\source\repos\Leitura\Leitura\obj\Debug\Leitura.exe
+C:\Users\Jean Felipe\source\repos\Leitura\Leitura\obj\Debug\Leitura.pdb
+C:\Users\Jean Felipe\source\repos\Leitura\Leitura\obj\Debug\Leitura.frmPrincipal.resources
